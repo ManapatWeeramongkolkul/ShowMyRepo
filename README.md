@@ -1,2 +1,6 @@
 # ShowMyRepo
-Hi
+<<<<<<< HEAD
+Ni hao people, hellooooooooo
+
+
+
